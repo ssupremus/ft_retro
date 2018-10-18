@@ -1,3 +1,5 @@
-You must have ncurses library installed on your computer.
-Then just launch the binary:
-./ft_retro
+Program works correctly on macos and linux operating systems.
+You must have clang compiler and ncurses library installed on your computer.
+You have to compile a project using Makefile ("make" command line).
+Then you have to launch a binary:
+./ft_retro.
