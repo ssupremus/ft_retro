@@ -1,2 +1,3 @@
-Just launch the binary
+You must have ncurses library installed on your computer.
+Then just launch the binary:
 ./ft_retro
